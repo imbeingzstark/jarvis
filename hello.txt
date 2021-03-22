@@ -1,3 +1,5 @@
 Hello Raj !!
 My 1st git file.
 Afternoon
+bye raj
+have a nice day
